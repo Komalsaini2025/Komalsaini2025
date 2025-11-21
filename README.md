@@ -28,7 +28,7 @@ Currently exploring **AI automation**, **data visualization**, and **LLM-assiste
 📅 *2025 – Present*
 - Train & fine-tune **AI/LLM models**  
 - Build datasets, annotation pipelines, evaluation metrics  
-- Develop prompts, QC, accuracy optimization  
+- Develop prompts, accuracy optimization  
 
 ---
 
