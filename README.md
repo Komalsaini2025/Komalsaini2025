@@ -80,11 +80,17 @@ Clustering + visualization for business insight generation.
 
 ---
 
-## 📊 GitHub Stats  
+### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komalsaini2025&show_icons=true&theme=radical" /> </p>
-📈 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsaini2025&layout=compact&theme=radical" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=komalsaini2025&show_icons=true&count_private=true&theme=radical" />
+</p>
+
+  Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=komalsaini2025&layout=compact&theme=radical" />
+</p>
+
 🔥 Streak Stats
 <p align="center"> <img src="https://streak-stats.demolab.com?user=komalsaini2025&theme=radical" /> </p>
 
