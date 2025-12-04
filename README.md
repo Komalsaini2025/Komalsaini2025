@@ -83,16 +83,18 @@ Clustering + visualization for business insight generation.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalsaini2025&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats-psi-weld.vercel.app/api?username=komalsaini2025&show_icons=true&count_private=true&theme=radical" />
 </p>
 
+###   🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsaini2025&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-psi-weld.vercel.app/api/top-langs/?username=komalsaini2025&layout=compact&theme=radical" />
 </p>
 
-
-🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=komalsaini2025&theme=radical" /> </p>
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komalsaini2025&theme=radical" />
+</p>
 
 ---
 
