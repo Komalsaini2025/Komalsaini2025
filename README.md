@@ -24,7 +24,7 @@ Currently exploring **AI automation**, **data visualization**, and **LLM-assiste
 
 ## 💼 Experience
 
-### 👩‍💻 AI Trainer — Techcadd Computer Education  
+### 👩‍💻 AI Developer — Techcadd Computer Education  
 📅 *2025 – Present*
 - Train & fine-tune **AI/LLM models**  
 - Build datasets, annotation pipelines, evaluation metrics  
