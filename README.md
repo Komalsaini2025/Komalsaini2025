@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#FF66CC;">Komal Saini</span> 🦋</h1>
-<h3 align="center">AI Trainer | Data Analyst | Python & Data Science Developer</h3>
+<h3 align="center">AI Developer | Data Analyst | Python & Data Science Developer</h3>
 
 ---
 
